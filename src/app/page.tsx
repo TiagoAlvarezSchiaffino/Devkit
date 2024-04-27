@@ -1,7 +1,6 @@
-import { ResourceProps, resources } from "../constants/resources"
+import { ResourceProps, resources } from "../constants/resources/index"
 import Link from "next/link";
 import { cn } from "@/lib/utils";
-import Image from "next/image";
 import ResourceCard from "@/components/custom/ResourceCard";
 
 type CategoriesProps = ResourceProps["category"]
@@ -15,7 +14,7 @@ export default function Home({
   const categories: CategoriesProps[] = [
     "Tools", 
     "Design",
-    "Development",
+    // "Development",
     "Technologies",
     "Typography",
     "Upskilling",
