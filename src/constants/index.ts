@@ -36,7 +36,7 @@ export const ImageNavLinks: NavigationCardProps[] = [
     {
         image: {
             src: "",
-            alt: "Convert image"
+            alt: "Convert image to webp"
         },
         title: "Image conversion",
         description: "Convert image types from one to another",
