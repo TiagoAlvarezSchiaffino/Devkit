@@ -85,5 +85,60 @@ export const UpskillingResources:  ResourceProps[] = [
         category: "Upskilling",
         link: "https://www.magicpattern.design/tools"
     },
-
+    {
+        logo: "/logos/fullstackopen.svg",
+        name: "Full Stack open",
+        description: "This course will introduce you to modern JavaScript-based web development.",
+        category: "Upskilling",
+        link: "https://fullstackopen.com/"
+    },
+    {
+        logo: "/logos/codesignal.svg",
+        name: "CodeSignal",
+        description: "Skills assessments and AI-powered learning tools.",
+        category: "Upskilling",
+        link: "https://codesignal.com/"
+    },
+    {
+        logo: "/logos/frontendmasters.png",
+        name: "FrontendMasters",
+        description: "Learn Practical Tech Skills from Experts You Can Trust.",
+        category: "Upskilling",
+        link: "https://frontendmasters.com/guides/front-end-handbook/2024/#1"
+    },
+    {
+        logo: "/logos/frontendpractice.jpg",
+        name: "Frontend Practice",
+        description: "Take your frontend skills to the next level by recreating real websites from real companies.",
+        category: "Upskilling",
+        link: "https://www.frontendpractice.com/"
+    },
+    {
+        logo: "/logos/hackerearth.png",
+        name: "HackerEarth",
+        description: "Mock assessments and video tutorials to help you prepare for your next technical interview.",
+        category: "Upskilling",
+        link: "https://www.hackerearth.com/practice/interviews/"
+    },
+    {
+        logo: "/logos/hackerrank.png",
+        name: "HackerRank",
+        description: "Interview Preparation Kit.",
+        category: "Upskilling",
+        link: "https://www.hackerrank.com/interview/interview-preparation-kit"
+    },
+    {
+        logo: "/logos/visualgo.png",
+        name: "VisuAlgo",
+        description: "Visualising data structures and algorithms through animation.",
+        category: "Upskilling",
+        link: "https://visualgo.net/en"
+    },
+    {
+        logo: "/logos/coglode.jpg",
+        name: "Coglode",
+        description: "Tools reveal a fascinating hidden behavioural language that helps you diagnose and overcome human challenges.",
+        category: "Upskilling",
+        link: "https://www.coglode.com/"
+    },
 ]
