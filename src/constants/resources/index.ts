@@ -1,8 +1,8 @@
 import { designResources } from "./designResources"
 import { developmentResources } from "./development"
-import { TechnologiesResources } from "./technologiesResouces"
+import { TechnologiesResources } from "./technologiesResources"
 import { ToolsResources } from "./toolsResources"
-import { typographyResources } from "./typographyResouces"
+import { typographyResources } from "./typographyResources"
 import { UpskillingResources } from "./upskillingResources"
 import { youtubeResources } from "./youtubeResources"
 

@@ -26,7 +26,7 @@ export const NavLinks: {
 export const ImageNavLinks: NavigationCardProps[] = [
     {
         image: {
-            src: "",
+            src: "/public/compress.webp",
             alt: "Compress image"
         },
         title: "Compress image",
@@ -35,7 +35,7 @@ export const ImageNavLinks: NavigationCardProps[] = [
     },
     {
         image: {
-            src: "",
+            src: "/public/convert.webp",
             alt: "Convert image to webp"
         },
         title: "Convert image to webp",
@@ -44,7 +44,7 @@ export const ImageNavLinks: NavigationCardProps[] = [
     },
     {
         image: {
-            src: "/logos/removebg.webp",
+            src: "/logos/RemoveBG.png",
             alt: "background removal"
         },
         title: "Remove Background",
